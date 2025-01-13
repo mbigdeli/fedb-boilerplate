@@ -1,6 +1,5 @@
-# JWT Telegram Mini App
-
-A full-stack application with React frontend and NestJS backend, using JWT authentication for Telegram Mini App.
+# Boiler Plate for NestJS and React(Vite) 
+A full-stack application with React frontend and NestJS backend
 
 ## Tech Stack
 
